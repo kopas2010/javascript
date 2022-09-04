@@ -58,3 +58,4 @@ function winLose(user, js){
 
   return winLoseStr;
 }
+
